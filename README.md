@@ -54,7 +54,7 @@ The JavaScript code is responsible for creating and animating the 3D scene using
 
 ## Screenshots
 
-Include screenshots of your application here to showcase different features and the overall visual experience.
+![alt text](image.png)
 
 ## Contributing
 
